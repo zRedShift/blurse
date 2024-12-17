@@ -1,0 +1,14 @@
+[package]
+authors = ["Ronen Ulanovsky <ronen.ulanovsky.5@gmail.com>"]
+categories = ["asynchronous", "hardware-support", "os::linux-apis"]
+description = "Blurse: A blursed pure Rust user-space interface to the Linux Bluetooth subsystem"
+documentation = "https://docs.rs/blurse"
+edition = "2024"
+keywords = ["ble", "bluetooth", "hci", "linux"]
+license = "MIT/Apache-2.0"
+name = "blurse"
+readme = "README.md"
+repository = "https://github.com/zRedShift/blurse"
+version = "0.0.1"
+
+[dependencies]
